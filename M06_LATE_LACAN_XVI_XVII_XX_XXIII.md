@@ -5,7 +5,11 @@ FORMAT: Gemini Notebook paste-ready master Markdown
 COMPILATION_METHOD: Exact concatenation of canonical corpus Markdown with navigation wrappers
 CONTAINS_CORPUS_IDS: 20-24
 MASTER_SET: 10-volume edition
+layout: corpus
+title: "Late Lacan: Seminars XVI, XVII, XX, and XXIII"
+permalink: /M06_LATE_LACAN_XVI_XVII_XX_XXIII/
 ---
+{% raw %}
 
 # M06 — Late Lacan — Seminars XVI, XVII, XX, and XXIII
 
@@ -11928,3 +11932,4 @@ had appeared a long time before - for instance, on January 13th 1960 (SVII), in 
 END ORIGINAL CORPUS FILE: 24_SEMINAR_XXIII_THE_SINTHOME_EXHAUSTIVE.md
 CORPUS_ID: 24
 ==================================================
+{% endraw %}
