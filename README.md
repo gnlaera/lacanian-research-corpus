@@ -1,0 +1,4 @@
+This repository contains a ten-volume Markdown research corpus organized for close study, conceptual retrieval, comparison, and use with Gemini Notebook.
+The corpus includes primary-source material from Jacques Lacan and Sigmund Freud, structured reconstructions of seminars and secondary works, major Lacanian interpreters, clinical and companion texts, and cross-source thematic syntheses.
+The corpus preserves distinctions between primary texts, later interpretation, translation choices, editorial framing, and corpus-generated synthesis. Internal corpus IDs, source boundaries, chronological structure, and provenance markers are retained throughout the ten master volumes.
+The repository is intended as a research and retrieval environment rather than as a substitute for consulting original published editions.
