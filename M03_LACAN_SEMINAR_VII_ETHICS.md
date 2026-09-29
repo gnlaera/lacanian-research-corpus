@@ -5,7 +5,11 @@ FORMAT: Gemini Notebook paste-ready master Markdown
 COMPILATION_METHOD: Exact concatenation of canonical corpus Markdown with navigation wrappers
 CONTAINS_CORPUS_IDS: 11-12
 MASTER_SET: 10-volume edition
+layout: corpus
+title: "Lacan Seminar VII: The Ethics of Psychoanalysis"
+permalink: /M03_LACAN_SEMINAR_VII_ETHICS/
 ---
+{% raw %}
 
 # M03 — Lacan Seminar VII — The Ethics of Psychoanalysis
 
@@ -15448,3 +15452,4 @@ This file is a structured full-text conversion of the second major portion of Ja
 END ORIGINAL CORPUS FILE: 12_SEMINAR_VII_ETHICS_PART_B.md
 CORPUS_ID: 12
 ==================================================
+{% endraw %}
