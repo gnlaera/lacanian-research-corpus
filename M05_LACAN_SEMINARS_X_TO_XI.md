@@ -5,7 +5,11 @@ FORMAT: Gemini Notebook paste-ready master Markdown
 COMPILATION_METHOD: Exact concatenation of canonical corpus Markdown with navigation wrappers
 CONTAINS_CORPUS_IDS: 16-19
 MASTER_SET: 10-volume edition
+layout: corpus
+title: "Lacan Seminars X–XI"
+permalink: /M05_LACAN_SEMINARS_X_TO_XI/
 ---
+{% raw %}
 
 # M05 — Lacan Seminars X–XI
 
@@ -15675,3 +15679,4 @@ Primary source: Jacques Lacan, *The Seminar of Jacques Lacan, Book XI: The Four 
 END ORIGINAL CORPUS FILE: 19_SEMINAR_XI_FUNDAMENTAL_CONCEPTS_PART_B.md
 CORPUS_ID: 19
 ==================================================
+{% endraw %}
