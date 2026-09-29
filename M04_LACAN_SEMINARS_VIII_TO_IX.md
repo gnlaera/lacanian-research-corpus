@@ -5,7 +5,11 @@ FORMAT: Gemini Notebook paste-ready master Markdown
 COMPILATION_METHOD: Exact concatenation of canonical corpus Markdown with navigation wrappers
 CONTAINS_CORPUS_IDS: 13-15
 MASTER_SET: 10-volume edition
+layout: corpus
+title: "Lacan Seminars VIII–IX: Transference and Identification"
+permalink: /M04_LACAN_SEMINARS_VIII_TO_IX/
 ---
+{% raw %}
 
 # M04 — Lacan Seminars VIII–IX — Transference and Identification
 
@@ -9484,3 +9488,4 @@ The file preserves all 26 supplied sessions and treats topological figures selec
 END ORIGINAL CORPUS FILE: 15_SEMINAR_IX_IDENTIFICATION_EXHAUSTIVE.md
 CORPUS_ID: 15
 ==================================================
+{% endraw %}
