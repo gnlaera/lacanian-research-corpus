@@ -5,7 +5,11 @@ FORMAT: Gemini Notebook paste-ready master Markdown
 COMPILATION_METHOD: Exact concatenation of canonical corpus Markdown with navigation wrappers
 CONTAINS_CORPUS_IDS: 00-06
 MASTER_SET: 10-volume edition
+layout: corpus
+title: "Reference, chronology, terminology, and core Écrits"
+permalink: /M01_REFERENCE_CHRONOLOGY_TERMS_ECRITS/
 ---
+{% raw %}
 
 # M01 — Reference, chronology, terminology, and core Écrits
 
@@ -18566,3 +18570,4 @@ Included:
 END ORIGINAL CORPUS FILE: 06_ECRITS_CORE_III_SUBJECT_DESIRE_UNCONSCIOUS_DRIVE.md
 CORPUS_ID: 06
 ==================================================
+{% endraw %}
