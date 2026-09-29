@@ -5,7 +5,11 @@ FORMAT: Gemini Notebook paste-ready master Markdown
 COMPILATION_METHOD: Exact concatenation of canonical corpus Markdown with navigation wrappers
 CONTAINS_CORPUS_IDS: 07-10
 MASTER_SET: 10-volume edition
+layout: corpus
+title: "Lacan Seminars IV–VI"
+permalink: /M02_LACAN_SEMINARS_IV_TO_VI/
 ---
+{% raw %}
 
 # M02 — Lacan Seminars IV–VI
 
@@ -15709,3 +15713,4 @@ Together these two Markdown files constitute the portable corpus conversion of t
 END ORIGINAL CORPUS FILE: 10_SEMINAR_VI_DESIRE_PART_B.md
 CORPUS_ID: 10
 ==================================================
+{% endraw %}
